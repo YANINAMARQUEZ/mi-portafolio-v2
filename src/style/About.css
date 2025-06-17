@@ -1,0 +1,23 @@
+#about {
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+#about h2 {
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+#about p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
+.tech-logos img {
+  max-height: 60px;
+  margin: 10px;
+  transition: transform 0.3s ease;
+}
+
+.tech-logos img:hover {
+  transform: scale(1.1);
+}
