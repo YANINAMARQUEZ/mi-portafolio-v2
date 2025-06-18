@@ -1,4 +1,5 @@
 
+![Captura del proyecto](portafolio.png)
 
 # React + TypeScript + Vite
 
