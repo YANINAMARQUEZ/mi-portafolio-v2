@@ -1,4 +1,4 @@
-![Mi Portafolio](origen_activos/portafolio.png)
+
 
 # React + TypeScript + Vite
 
