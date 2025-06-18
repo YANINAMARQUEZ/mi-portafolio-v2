@@ -1,4 +1,4 @@
-![Mi Portafolio](src%20assets/portafolio.png)
+![Mi Portafolio](origen_activos/portafolio.png)
 
 # React + TypeScript + Vite
 
